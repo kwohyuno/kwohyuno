@@ -50,6 +50,12 @@ IT 기술로 모든 비즈니스가 혁신할 수 있다고 믿는 신입 개발
 <img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;"> &nbsp; Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)<br>
 <br>
 
+## 👋 Activities 
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" > &nbsp; 아마존웹서비스한국사용자모임 (KRUG Beginner) (2023.03~)<br>
+<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" > &nbsp; 고사대 알고리즘 동아리 (2023.03~)<br>
+
+
+
 ## 🔍  Where to find me
 
 
