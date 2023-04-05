@@ -23,34 +23,26 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 
 
 <a name="learning-next"></a>
 
 ## 📖  Education
 
-<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="15" valign="center">&nbsp;서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
+<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" valign="center"> &nbsp;&nbsp; 서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
 &nbsp;
 <br>
-<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="15" valign="center">&nbsp;고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
+<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="25" valign="center">&nbsp;&nbsp; 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
 
-## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+## 👾  Working Experience
+<img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="50"> 
+<img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="50">
+<img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="50">
+<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="50>
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="50>
+
 
 ## 🔍  Where to find me
 
@@ -58,6 +50,3 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://https://www.linkedin.com/in/현오-권-395684188/)
 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
