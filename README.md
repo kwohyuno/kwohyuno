@@ -54,7 +54,8 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 ## 🔍  Where to find me
 
 
-<img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25"> tistory
+<img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25" style="display: block; margin: 0 auto;> tistory
+<br>
 <br>
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://https://www.linkedin.com/in/현오-권-395684188/)
