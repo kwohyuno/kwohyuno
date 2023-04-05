@@ -29,9 +29,9 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 
 ## 📖  Education
 
-[<img src="https://https://ibb.co/GVvVQ5K" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
+[<img src="https://ibb.co/GVvVQ5K" alt="Firebase logo" title="Firebase" height="25" />]서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
 &nbsp;
-[<img src="https://https://ibb.co/0tG7VSt" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
+[<img src="https://ibb.co/0tG7VSt" alt="styled-components logo" title="styled-components" height="25" />] 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
 
 ## 👾  What I am interested in learning at some point
 
