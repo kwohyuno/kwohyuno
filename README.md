@@ -37,16 +37,18 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 
 
 ## 👾  Working Experience
-<img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="50"> 우아한 형제들 (2018.08)
-<img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="50"> 위메프 (2018.10)
-<img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="50"> 콴다 (2018.12)
-<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="50"> 네이버클라우드 (2021.01)
-<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="50"> 아마존웹서비스 (2021.03~2022.12)
+<img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="50" width="100"> 우아한 형제들 (2018.08)
+<img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="50" width="100"> 위메프 (2018.10)
+<img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="50" width="100"> 콴다 (2018.12)
+<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="50" width="100"> 네이버클라우드 (2021.01)
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="50" width="100"> 아마존웹서비스 (2021.03~2022.12)
 
 
 ## 🛠   Projects 
 
+### Primer 주관 AI 해커톤 (2023.04) : Just-Say 대화하며 외국어를 연습하는 앱 
 
+### Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08) 
 
 
 ## 🔍  Where to find me
