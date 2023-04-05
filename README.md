@@ -35,8 +35,8 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 
 ## 🛠   Projects 
 
-<h5>Primer 주관 AI 해커톤 (2023.04) : Just-Say 대화하며 외국어를 연습하는 앱</h4> <br>
-<h5>Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)</h4> <br>
+Primer 주관 AI 해커톤 (2023.04) : Just-Say 대화하며 외국어를 연습하는 앱 <br>
+Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)<br>
 <br>
 
 ## 🔍  Where to find me
