@@ -33,15 +33,15 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 <img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" valign="center"> &nbsp;&nbsp; 서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
 &nbsp;
 <br>
-<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="25" valign="center">&nbsp;&nbsp; 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
+<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="25" valign="center">&nbsp; 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
 
 
 ## 👾  Working Experience
 <img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="50"> 
 <img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="50">
 <img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="50">
-<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="50>
-<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="50>
+<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="50">
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="50">
 
 
 ## 🔍  Where to find me
