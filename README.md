@@ -30,7 +30,7 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 
 ## 📖  Education
 
-<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" > &nbsp;&nbsp; 서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
+&nbsp;&nbsp;<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" > &nbsp;&nbsp; 서울대학교 사범대학 졸업 (2013.03 ~ 2020.08)
 &nbsp;
 <br><br>
 <img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="30" > 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03)
