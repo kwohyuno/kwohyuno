@@ -36,9 +36,9 @@ IT 기술로 모든 비즈니스가 혁신할 수 있다고 믿는 신입 개발
 
 ## 👾  Working Experience
 
-<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" > &nbsp;아마존웹서비스 (2021.03~2022.12)<br>
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" > &nbsp;아마존웹서비스 (2021.03 - 2022.12)<br>
 <img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;"> &nbsp;네이버클라우드 (2021.01)<br>
-<img src='https://ifh.cc/g/dFtynS.png' border='0' height="25" style="object-fit: cover;"> &nbsp;라인 (2019.07~2019.09) <br>
+<img src='https://ifh.cc/g/dFtynS.png' border='0' height="25" style="object-fit: cover;"> &nbsp;라인 (2019.07 - 2019.09) <br>
 <img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="25" width="25"> &nbsp;콴다 (2018.12)<br>
 <img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="25" width="25"> &nbsp;위메프 (2018.10)<br>
 <img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="25" width="25"> &nbsp;우아한 형제들 (2018.08)<br>
