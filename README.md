@@ -40,8 +40,8 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 <img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="25" width="25"> &nbsp;우아한 형제들 (2018.08)<br>
 <img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="25" width="25"> &nbsp;위메프 (2018.10)<br>
 <img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="25" width="25"> &nbsp;콴다 (2018.12)<br>
-<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" width="25"> &nbsp;네이버클라우드 (2021.01)<br>
-<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" width="25"> &nbsp;아마존웹서비스 (2021.03~2022.12)<br>
+<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" > &nbsp;네이버클라우드 (2021.01)<br>
+<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" > &nbsp;아마존웹서비스 (2021.03~2022.12)<br>
 
 
 ## 🛠   Projects 
@@ -53,7 +53,7 @@ IT 기술로 비즈니스의 혁신을 꿈꾸는 신입 개발자 지망생 입�
 ## 🔍  Where to find me
 
 
-<a href="https://www.kwohyuno.tistory.com"><img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25" style="display: block; margin: 0 auto;"> tistory</a>
+<a href="https://kwohyuno.tistory.com"><img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25" style="display: block; margin: 0 auto;"> tistory</a>
 <br>
 <br>
 &nbsp;
