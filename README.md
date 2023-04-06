@@ -53,7 +53,7 @@ IT 기술로 모든 비즈니스가 혁신할 수 있다고 믿는 신입 개발
 
 <br>
 
-<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;"> &nbsp; Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;"> &nbsp; Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <br><br>
 
 ## 👋 Activities 
