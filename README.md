@@ -47,6 +47,10 @@ IT 기술로 모든 비즈니스가 혁신할 수 있다고 믿는 신입 개발
 <br>
 
 
+## 📖  Certificates
+<img src="https://i.ibb.co/tDsYbhM/ASA.jpg" alt="ASA" border="0" height="25" style="object-fit: cover;"> AWS Solutions Architect Associate (2020.11)<br><br>
+
+
 ## 🔍  Where to find me
 
 
