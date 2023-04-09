@@ -34,7 +34,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
   </tr>
   <tr>
     <td>AI/ML</td>
-    <td>matplotlab, Rstudio</td>
+    <td>pandas, matplotlab, Rstudio</td>
   </tr>
    <tr>
     <td>Design Patterns & Architecture </td>
