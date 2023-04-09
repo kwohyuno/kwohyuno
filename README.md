@@ -14,7 +14,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>Spring, Node.js(Express,NEST), Django, Fast API </td>
+    <td>Spring(Java), Node.js(Express,NEST), Django, Fast API </td>
   </tr>
   <tr>
     <td>Database</td>
