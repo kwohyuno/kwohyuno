@@ -49,7 +49,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
     <td>React, CSS, BootStrap, HTML</td>
    </tr>
    <tr>
-    <td>Server</td>
+    <td>Server & Network</td>
     <td>Shell Script, Linux, HTTP</td>
    </tr>
    <tr>
