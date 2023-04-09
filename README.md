@@ -14,7 +14,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>Spring, Node.js(Express,NEST)</td>
+    <td>Spring, Node.js(Express,NEST), Django </td>
   </tr>
   <tr>
     <td>Database</td>
@@ -34,7 +34,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
   </tr>
   <tr>
     <td>AI/ML</td>
-    <td>pandas, matplotlab, Rstudio</td>
+    <td>pandas, Numpy, matplotlab, Rstudio</td>
   </tr>
    <tr>
     <td>Design Patterns & Architecture </td>
