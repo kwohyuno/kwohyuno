@@ -5,11 +5,71 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 ## 🛠  Technologies and tools
 
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/>
+<table>
+  <th>
+    Classification
+  </th>
+  <th>
+    Skills
+  </th>
+  <tr>
+    <td>Backend,Server</td>
+    <td>Spring, Node.js(Express,NEST)</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MySQL, PostreSQL, MongoDB, OracleDB</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>AWS,Container,Docker</td>
+  </td>
+  <tr>
+    <td>CI/CD</td>
+    <td>Jenkins,GraphQL,Swagger,FAST API</td>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td>Python, Java, JavaScript, R, SQL</td>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td>matplotlab, Rstudio</td>
+  </tr>
+   <tr>
+    <td>Design Patterns & Architecture </td>
+    <td>TDD, DDD, Clean Code, MicroService</td>
+   </tr>
+   <tr>
+   <td>Data Engineering</td>
+   <td>Kafka, redis, elasticsearch, Big Query </td>
+   </tr>
+   <tr>
+    <td>FrontEnd</td>
+    <td>React, CSS, BootStrap, HTML</td>
+   </tr>
+   <tr>
+    <td>Server</td>
+    <td>Shell Script, Linux, HTTP</td>
+   </tr>
+   <tr>
+   <td>Monitoring</td>
+   <td>Data Dog</td>
+   </tr>
+   <tr>
+    <td>Security</td>
+    <td>Oauth</td>
+   </tr>
+
+
+
+
+</table>
+
 
 <br>
 
-## 📖  Education
+## 🎓  Education
 
 <img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="30" style="display: block; margin: auto;" > 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03) 졸업 예정
 &nbsp;
@@ -19,7 +79,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 <br>
 
-## 👾  Working Experience
+## 💻  Working Experience
 
 <img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;vertical-align:center;" > &nbsp;아마존웹서비스 (2021.03 ~ 2022.12)<br>
 <img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;vertical-align:center;"> &nbsp;네이버클라우드 (2021.01)<br>
@@ -41,7 +101,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 <img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;"> &nbsp; Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <br><br>
 
-## 👋 Activities 
+## 🌏 Activities 
 &nbsp;&nbsp; <img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" >  &nbsp;&nbsp; 아마존웹서비스한국사용자모임 (KRUG Beginner) (2023.03~)<br>
 <img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="awslogo" border="0" height="25" style="object-fit: cover;" >  고사대 알고리즘 동아리 (2023.03~)<br>
 <br>
