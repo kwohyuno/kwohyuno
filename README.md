@@ -109,7 +109,8 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 ## 📖  Certificates
 <img src="https://i.ibb.co/tDsYbhM/ASA.jpg" alt="ASA" border="0" height="25" style="object-fit: cover;"> AWS Solutions Architect Associate (2020.11)<br><br>
-
+📝 정보처리기사 (2023.07) 
+<br>
 
 ## 🔍  Where to find me
 
