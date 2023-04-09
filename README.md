@@ -92,7 +92,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 ## 🛠   Projects 
 
-<a href="https://ibb.co/ZB2HxGD"><img src="https://i.ibb.co/ZB2HxGD/Primer.png" alt="Primer" border="0" height="25" style="object-fit: cover;"></a> &nbsp; Primer 주관 AI 해커톤 (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say 대화하며 외국어를 연습하는 앱<a> <br>
+<a href="https://ibb.co/ZB2HxGD"><img src="https://i.ibb.co/ZB2HxGD/Primer.png" alt="Primer" border="0" height="25" style="object-fit: cover;"></a> &nbsp; Primer 주관 AI 해커톤 (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> 대화하며 외국어를 연습하는 앱 <br>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white"/><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 
