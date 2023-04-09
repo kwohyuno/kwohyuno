@@ -116,3 +116,9 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 <a href="https://kwohyuno.tistory.com"><img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25" style="display: block; margin: auto;"> tistory</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/현오-권-395684188/)
 
+
+## 🙋‍♂️  Hobby
+<h4> 독서 - IT도서 : 리팩터링, 적정소프트웨어아키텍처, 구글엔지니어는 이렇게 일한다, Clean Code, TDD</h4>
+<h4> 보디빌딩 - 2022년 스포엑스 보디빌딩 대회, 2018년 절강대 교내보디빌딩 대회 참가 </h4>
+<h4> 중국어 - 2018년 교환학생 및 HSK6급 보유 </h4>
+
