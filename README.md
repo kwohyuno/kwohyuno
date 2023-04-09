@@ -72,7 +72,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 ## 🎓  Education
 
 <img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="30" style="display: block; margin: auto;" > 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03) 졸업 예정 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp; <h5>수강 과목 : 데이터베이스, 자료구조, 컴퓨터구조, 컴퓨터네트워크, 운영체제, 인터넷보안, 알고리즘, 인공지능, 머신러닝 </h5>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h5>수강 과목 : 데이터베이스, 자료구조, 컴퓨터구조, 컴퓨터네트워크, 운영체제, 인터넷보안, 알고리즘, 인공지능, 머신러닝 </h5>
 &nbsp;
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" style="display: block; margin: auto;" > &nbsp;&nbsp;&nbsp; 서울대학교 졸업 (2013.03 ~ 2020.08)
