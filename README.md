@@ -75,7 +75,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 &nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" style="display: block; margin: auto;" > &nbsp;&nbsp;&nbsp; 서울대학교 졸업 (2013.03 ~ 2020.08)
-<h5> 서울대 경영전략학회 MCSA 산학 컨설팅 프로젝트 3회 진행(우아한형제들, 위메프, 콴다) </h5>
+<h5> 서울대 경영전략학회 MCSA 산학 연계 전략 컨설팅 프로젝트 3회 진행(우아한형제들, 위메프, 콴다) </h5>
 
 <br>
 
