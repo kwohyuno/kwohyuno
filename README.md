@@ -83,7 +83,7 @@ IT 기술로 비즈니스의 혁신을 만들어 내는 소프트웨어 엔지�
 
 <img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;vertical-align:center;" > &nbsp;아마존웹서비스 (2021.03 ~ 2022.12)<br>
 <img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;vertical-align:center;"> &nbsp;네이버클라우드 (2021.01)<br>
-<img src='https://ifh.cc/g/dFtynS.png' border='0' height="25" style="object-fit: cover;vertical-align:center;"> &nbsp;라인 (2019.07 ~ 2019.09) <br>
+<img src='https://ifh.cc/g/dFtynS.png' border='0' height="25" style="object-fit: cover;vertical-align:center;"> &nbsp;라인 (2019.06 ~ 2019.09) <br>
 <img src="https://i.ibb.co/kG0vR9B/Qanda.jpg" alt="Qanda" border="0" height="25" width="25" style="vertical-align:center;"> &nbsp;콴다 (2018.12)<br>
 <img src="https://i.ibb.co/zXGSPR7/wemaf.png" alt="wemaf" border="0" height="25" width="25" style="vertical-align:center;"> &nbsp;위메프 (2018.10)<br>
 <img src="https://i.ibb.co/TBYYZdm/woowa-bros.png" alt="woowa-bros" border="0" height="25" width="25" style="vertical-align:center;"> &nbsp;우아한 형제들 (2018.08)<br>
