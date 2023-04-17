@@ -49,7 +49,7 @@
     <td>React, CSS, BootStrap, HTML</td>
    </tr>
    <tr>
-    <td>Server & Network</td>
+    <td>OS & Network</td>
     <td>Shell Script, Linux, HTTP</td>
    </tr>
    <tr>
