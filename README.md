@@ -14,7 +14,7 @@
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>Spring(Java), Fast API </td>
+    <td>Spring(Java), Swagger, Fast API </td>
   </tr>
   <tr>
     <td>Database</td>
@@ -26,7 +26,7 @@
   </td>
   <tr>
     <td>CI/CD</td>
-    <td>Jenkins,GraphQL,Swagger,Git Action</td>
+    <td>Jenkins,Git Action</td>
   </tr>
   <tr>
     <td>Language</td>
