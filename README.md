@@ -115,7 +115,9 @@
 
 ## 📖  Certificates
 <img src="https://i.ibb.co/tDsYbhM/ASA.jpg" alt="ASA" border="0" height="25" style="object-fit: cover;"> AWS Solutions Architect Associate (2020.11)<br><br>
-📝 정보처리기사 (2023.07) 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dfqn2Q3/naver-cloud-logo.jpg" alt="naver-cloud-logo" height="25" border="0"></a> 네이버클라우드 자격층 NCA (2023.06)<br><br>
+📝 정보처리기사 (2023.08) 
+📝 SQLD (2023.11) 
 <br><br>
 
 ## 🔍  Where to find me
