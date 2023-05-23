@@ -1,6 +1,6 @@
 # Hyunoh Kwon 
 비즈니스 성장을 위한 서비스의 가용성, 확장성, 민첩성을 연구하는 주니어 백엔드 개발자입니다 <br>
-<div style="font-size:10px;">
+<div style="font-size:8px;font-style:italic">
 -클라우드 인프라를 통한 안정적인 트래픽 제어<br>    
 -클라우드를 활용한 DevOps<br>
 -클라우드를 활용한 데이터 엔지니어링<br> 
