@@ -14,11 +14,11 @@
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>Spring(Java), Node.js(Express,NEST), Django, Fast API </td>
+    <td>Spring(Java), Fast API </td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MySQL, PostreSQL, MongoDB, OracleDB</td>
+    <td>MySQL, OracleDB</td>
   </tr>
   <tr>
     <td>DevOps</td>
@@ -46,7 +46,7 @@
    </tr>
    <tr>
     <td>FrontEnd</td>
-    <td>React, CSS, BootStrap, HTML</td>
+    <td>React, CSS, BootStrap, HTML, TypeScript</td>
    </tr>
    <tr>
     <td>OS & Network</td>
