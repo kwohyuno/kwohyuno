@@ -2,10 +2,7 @@
 소프트웨어로 비즈니스의 혁신을 만들어 내는 풀스택 개발자입니다 <br>
 <div style="font-size:8px;">
 <i>  
-#클라우드 인프라를 통한 안정적인 트래픽 핸들링<br>    
-#클라우드를 활용한 DevOps<br>
-#클라우드를 활용한 데이터 엔지니어링<br> 
-#클라우드를 활용한 MLOps <br>
+#대규모트래픽  #DevOps  #Data_Engineering  #MLOps    
 </i>
 <div>
 
