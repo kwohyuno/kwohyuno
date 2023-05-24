@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Database</td>
-    <td>MySQL, OracleDB, MariaDB, MongoDB, DynamoDB</td>
+    <td>MySQL, OracleDB, MariaDB, MongoDB</td>
   </tr>
   <tr>
     <td>DevOps</td>
