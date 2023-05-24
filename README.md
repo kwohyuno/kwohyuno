@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>AI/ML</td>
-    <td>GPT, tts, pandas, Numpy, matplotlab, Rstudio</td>
+    <td>GPT, tts, pandas, Numpy, matplotlab, Rstudio, SageMaker</td>
   </tr>
    <tr>
     <td>Design Patterns & Architecture </td>
