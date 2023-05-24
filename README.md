@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>AWS,Container,Docker,Kubernetes</td>
+    <td>AWS, Docker, Kubernetes</td>
   </td>
   <tr>
     <td>CI/CD</td>
