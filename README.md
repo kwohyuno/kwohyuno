@@ -20,15 +20,15 @@
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>Spring(Java), Swagger, Fast API </td>
+    <td>SpringBoot(Java,JPA), Swagger, gRPC, graphQL, Fast API </td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MySQL, OracleDB</td>
+    <td>MySQL, OracleDB, MariaDB</td>
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>AWS,Container,Docker</td>
+    <td>AWS,Container,Docker,Kubernetes</td>
   </td>
   <tr>
     <td>CI/CD</td>
@@ -44,7 +44,7 @@
   </tr>
    <tr>
     <td>Design Patterns & Architecture </td>
-    <td>TDD, DDD, Clean Code, MicroService</td>
+    <td>TDD, DDD, Clean Code, MSA, MVC </td>
    </tr>
    <tr>
    <td>Data Engineering</td>
@@ -109,7 +109,12 @@
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zfbfTKc/image.jpg" alt="image" border="0" height="25"></a> &nbsp; 캐치마인드  (2023.05 ~ 2023.06)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /><img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zfbfTKc/image.jpg" alt="image" border="0" height="25"></a> &nbsp; 미니게임 갈릭 마인드  (2023.05 ~ 2023.06)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+  
+<br>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDY1bJh/datadoglogo.jpg" alt="datadoglogo" border="0" height="25"></a> &nbsp; 애완견 소개팅앱  (2023.08)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /><img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />  
+  
 
 <br><br>
 
