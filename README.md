@@ -77,6 +77,12 @@
 
 ## 🎓  Education
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="snu" border="0" height="25" style="display: block; margin: auto;" > &nbsp;&nbsp;&nbsp; 네이버 클라우드(Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08))
+<h5> SpringBoot, React, NCP 기반의 풀스택 교육 </h5>
+
+<br>
+  
+  
 <img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="30" style="display: block; margin: auto;" > 고려사이버대학 소프트웨어공학과 (2022.03 ~ 2024.03) 졸업 예정 &nbsp;&nbsp; <h5> 이수 과목 : 데이터베이스, 자료구조, 컴퓨터구조, 컴퓨터네트워크, 운영체제, 인터넷보안, 알고리즘, 인공지능, 머신러닝, 클라우드컴퓨팅, 데이터시각화 </h5>
 &nbsp;
 
@@ -104,7 +110,7 @@
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XjWN1c1/logoimage.png" alt="logoimage" border="0" height="25"></a> &nbsp; 코딩 학원 온라인 커뮤니티 <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (Naver Cloud AIaaS 개발자 프로그램 (2023.02 ~ 2023.08))<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XjWN1c1/logoimage.png" alt="logoimage" border="0" height="25"></a> &nbsp; 코딩 학원 온라인 커뮤니티 <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 
 
 <br>
