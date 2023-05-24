@@ -2,7 +2,7 @@
 소프트웨어로 비즈니스의 혁신을 만들어 내는 풀스택 개발자입니다 <br>
 <div style="font-size:8px;">
 <i>  
-#Traffic_Handling <br> #DevOps <br> #Data_Engineering <br> #MLOps    
+#Traffic_Handling <br> #DevOps <br> #Data_Engineering <br> #MLOps <br> #Cloud   
 </i>
 <div>
 
