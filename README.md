@@ -1,9 +1,7 @@
 # Hyunoh Kwon 
 소프트웨어로 비즈니스의 혁신을 만들어 내는 풀스택 개발자입니다 <br>
 <div style="font-size:8px;">
-<i>  
-#Traffic_Handling <br> #DevOps <br> #Data_Engineering <br> #MLOps <br> #Cloud   
-</i>
+
 <div>
 
 ## 🛠  Technologies and tools
@@ -17,19 +15,19 @@
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>SpringBoot(Java,JPA), Swagger, gRPC, graphQL, Fast API </td>
+    <td>SpringBoot(Java,JPA), Fast API </td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MySQL, OracleDB, MariaDB</td>
+    <td>MySQL, OracleDB</td>
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>AWS, Docker, Kubernetes</td>
+    <td>AWS, Docker</td>
   </td>
   <tr>
     <td>CI/CD</td>
-    <td>Jenkins,Git Action</td>
+    <td>Jenkins</td>
   </tr>
   <tr>
     <td>Language</td>
@@ -37,34 +35,18 @@
   </tr>
   <tr>
     <td>AI/ML</td>
-    <td>GPT, tts, pandas, Numpy, matplotlab, Rstudio, SageMaker</td>
+    <td>GPT, tts, pandas, Numpy, matplotlab, Rstudio</td>
   </tr>
    <tr>
-    <td>Design Patterns & Architecture </td>
-    <td>TDD, DDD, Clean Code, MSA, MVC </td>
-   </tr>
-   <tr>
-   <td>Data Engineering</td>
-   <td>Kafka, redis, elasticsearch, Big Query </td>
-   </tr>
    <tr>
     <td>FrontEnd</td>
-    <td>React, CSS, BootStrap, HTML, TypeScript</td>
+    <td>React, CSS, BootStrap, HTML</td>
    </tr>
    <tr>
     <td>OS & Network</td>
     <td>Shell Script, Linux, HTTP</td>
    </tr>
    <tr>
-   <td>Monitoring</td>
-   <td>Data Dog</td>
-   </tr>
-   <tr>
-    <td>Security</td>
-    <td>Oauth</td>
-   </tr>
-
-
 
 
 </table>
@@ -113,10 +95,8 @@
 <br>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zfbfTKc/image.jpg" alt="image" border="0" height="25"></a> &nbsp; 미니게임 갈릭 마인드  (2023.05 ~ 2023.06)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  
-<br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDY1bJh/datadoglogo.jpg" alt="datadoglogo" border="0" height="25" width="25"></a> &nbsp; 애완견 소개팅앱  (2023.08) - tdd, msa, mvc(JPA), security ,monitoring, data-engineering, restfulAPI, devOps, login, payment,SageMaker 포트폴리오 <br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" /><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" /><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+
   
 
 <br><br>
@@ -128,10 +108,8 @@
 
 
 ## 📖  Certificates
-<img src="https://i.ibb.co/tDsYbhM/ASA.jpg" alt="ASA" border="0" height="25" style="object-fit: cover;">&nbsp; AWS Solutions Architect Associate (2020.11)<br><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dfqn2Q3/naver-cloud-logo.jpg" alt="naver-cloud-logo" height="25" border="0"></a>&nbsp; 네이버클라우드 자격증 NCA (2023.06)<br><br>
-📝 정보처리기사 (2023.08) <br><br>
-📝 SQLD (2023.11) 
+
+📝 AWS Solutions Architect Associate (2020.11) 
 <br><br>
 
 ## 🔍  Where to find me
@@ -142,7 +120,7 @@
 <br>
 
 ## 🙋‍♂️  Hobby
-<h5>독서 - IT도서 : 리팩터링, 적정소프트웨어아키텍처, 구글엔지니어는 이렇게 일한다, Clean Code, TDD, 헤드퍼스트 디자인 패턴  </h5>
+<h5>독서 - IT도서  </h5>
 <h5>보디빌딩 - 2022년 스포엑스 보디빌딩 대회, 2018년 절강대 교내보디빌딩 대회 참가(체급2위) </h5>
 <h5>어학 - 영어( TOEIC 965 ), 중국어( HSK6급 ) </h5>
 
