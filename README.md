@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>DevOps</td>
-    <td>AWS, Docker</td>
+    <td>AWS, Docker, NCP </td>
   </td>
   <tr>
     <td>CI/CD</td>
