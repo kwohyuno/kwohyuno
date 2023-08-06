@@ -46,6 +46,10 @@
     <td>OS & Network</td>
     <td>Shell Script, Linux, HTTP</td>
    </tr>
+     <tr>
+    <td>Security</td>
+    <td>JWT, HTTPS, Oauth</td>
+   </tr>
    <tr>
 
 
