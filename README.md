@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Language</td>
-    <td>Python, Java, JavaScript, R, SQL</td>
+    <td>Python, Java, JavaScript, R, SQL, C</td>
   </tr>
   <tr>
     <td>AI/ML</td>
@@ -40,7 +40,7 @@
    <tr>
    <tr>
     <td>FrontEnd</td>
-    <td>React, CSS, BootStrap, HTML</td>
+    <td>React, CSS, BootStrap, HTML, Android Studio</td>
    </tr>
    <tr>
     <td>OS & Network</td>
