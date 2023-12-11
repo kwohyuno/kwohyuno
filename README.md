@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Language</td>
-    <td>Python, Java, JavaScript, R, SQL, C </td>
+    <td>Python, Java, JavaScript, R, SQL, C, C++, Kotlin </td>
   </tr>
   <tr>
     <td>AI/ML</td>
