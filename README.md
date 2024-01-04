@@ -27,7 +27,7 @@
   </td>
   <tr>
     <td>CI/CD</td>
-    <td>Jenkins</td>
+    <td>Jenkins, Git Action</td>
   </tr>
   <tr>
     <td>Language</td>
