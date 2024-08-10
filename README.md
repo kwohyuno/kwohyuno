@@ -48,7 +48,7 @@ Junior full-stack developer who dreams innovating business with software <br><br
 ## 🎓  Education
 
 
-<h4>University of San Francisco (2024.08 ~ 2026.05)) </h4>
+<h4>University of San Francisco (2024.08 ~ 2026.05) </h4>
 Masters of Science in Computer Science (Concentration on AI) 
 <br><br>
 
