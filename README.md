@@ -76,9 +76,9 @@ Graduated from Seoul National University (2013.03 ~ 2020.08)
 
 ## 💻  Working Experience
 
-<img src="https://i.ibb.co/0M0yzp6/awslogo.png" alt="awslogo" border="0" height="25" style="object-fit: cover;vertical-align:center;" > &nbsp; Amazon Web Services Korea (2021.03 ~ 2022.12)<br>
-<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="NCP" border="0" height="25" style="object-fit: cover;vertical-align:center;"> &nbsp; Naver Cloud (2021.01)<br>
-<img src='https://ifh.cc/g/dFtynS.png' border='0' height="25" style="object-fit: cover;vertical-align:center;"> &nbsp; LINE PLUS (2019.06 ~ 2019.09) <br>
+Amazon Web Services Korea (2021.03 ~ 2022.12)<br>
+Naver Cloud (2021.01)<br>
+LINE PLUS (2019.06 ~ 2019.09) <br>
 
 
 <br>
