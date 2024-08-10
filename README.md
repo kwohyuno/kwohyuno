@@ -15,42 +15,29 @@ junior full-stack developer who dreams of innovating business with software <br>
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>SpringBoot(Java,JPA), Fast API </td>
+    <td>SpringBoot(Java, JPA, JWT, )</td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MySQL, OracleDB</td>
+    <td>MySQL</td>
   </tr>
   <tr>
-    <td>DevOps</td>
-    <td>AWS, Docker, NCP </td>
-  </td>
-  <tr>
     <td>CI/CD</td>
-    <td>Jenkins, Git Action</td>
+    <td>AWS, Jenkins, Git Action</td>
   </tr>
   <tr>
     <td>Language</td>
-    <td>Python, Java, JavaScript, R, SQL, C, C++, Kotlin </td>
-  </tr>
-  <tr>
-    <td>AI/ML</td>
-    <td>GPT, tts, pandas, Numpy, matplotlab, Rstudio</td>
+    <td>Python, Java, C, SQL </td>
   </tr>
    <tr>
    <tr>
     <td>FrontEnd</td>
-    <td>React, CSS, BootStrap, HTML, Android Studio </td>
+    <td>React, CSS, BootStrap, HTML </td>
    </tr>
    <tr>
-    <td>OS & Network</td>
-    <td>Shell Script, Linux, HTTP</td>
+    <td>OS</td>
+    <td>Linux</td>
    </tr>
-     <tr>
-    <td>Security</td>
-    <td>JWT, HTTPS, Oauth</td>
-   </tr>
-   <tr>
 
 
 </table>
