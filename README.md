@@ -106,7 +106,7 @@ Introducing HTTPS, JWT, and refactoring the frontend to React
 ## 🔍  Where to find me
 
 
-<a href="https://kwohyuno.tistory.com"><img src="https://i.ibb.co/dPtSQV2/tistory.jpg" alt="tistory" border="0" height="25" style="display: block; margin: auto;"> tistory</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/현오-권-395684188/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/현오-권-395684188/)
 
 <br>
 
