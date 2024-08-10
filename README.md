@@ -60,16 +60,16 @@ junior full-stack developer who dreams of innovating business with software <br>
 
 ## 🎓  Education
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/92tyDNZ/NCP.png" alt="snu" border="0" height="25" style="display: block; margin: auto;" > &nbsp;&nbsp;&nbsp; Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08))
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08))
 <h5> Full stack training based on SpringBoot, React, and NCP </h5>
 
 <br>
   
   
-<img src="https://i.ibb.co/6BWMJxB/CUK.png" alt="CUK" border="0" height="30" style="display: block; margin: auto;" > Korea Cyber ​​University, Software Engineering Department  &nbsp;&nbsp; <h5> Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization </h5>
+Korea Cyber ​​University, Software Engineering Department  &nbsp;&nbsp; <h5> Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization </h5>
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.ibb.co/64R40W3/snu.png" alt="snu" border="0" height="25" style="display: block; margin: auto;" > &nbsp;&nbsp;&nbsp; Graduated from Seoul National University (2013.03 ~ 2020.08)
+Graduated from Seoul National University (2013.03 ~ 2020.08)
 <h5> Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda) </h5>
 
 <br>
@@ -85,7 +85,7 @@ junior full-stack developer who dreams of innovating business with software <br>
 
 ## 🛠   Projects 
 
-<a href="https://ibb.co/ZB2HxGD"><img src="https://i.ibb.co/ZB2HxGD/Primer.png" alt="Primer" border="0" height="25" style="object-fit: cover;"></a> &nbsp; Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals
+Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white"/><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /><img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 
