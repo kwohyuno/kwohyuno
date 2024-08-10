@@ -60,7 +60,7 @@ junior full-stack developer who dreams of innovating business with software <br>
 
 ## 🎓  Education
 
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08))
+Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08))
 <h5> Full stack training based on SpringBoot, React, and NCP </h5>
 
 <br>
