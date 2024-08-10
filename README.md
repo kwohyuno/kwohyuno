@@ -68,14 +68,20 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 ## 💻  Working Experience
 
-<h4>FPT Software Korea (2023.09 ~ 2024.3)</h4>
-<br>
+<h4>FPT Software Korea (2023.09 ~ 2024.03)</h4>
+As a Junior Software Engineer for LGE POIP CloudService(a middleware component of Hyundai Motor Group's Android Project), performed integration testing and version control of CloudService.
+<br><br>
+Enhanced communication and project management skills through extensive collaboaration with multiple teams including FPT CloudService Developers, HMC Managers, and LGE Tech Support. 
+<br><br>
+Gained foundational knowledge in Java programming, Linux and Git commands, and leanred the comprehensive lifecycle of software engineering and API utilization in real-world applications.
+<br><br><br>
 <h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4>
-<br>
-<h4>Naver Cloud (2021.01)</h4>
-<br>
-<h4>LINE PLUS (2019.06 ~ 2019.09)</h4>
-<br>
+Based on understanding of cloud infrastructure, led customers adopt cloud services by opening online seminars and education sessions, contributing $1.5M Annual Revenue in 2022(Top record in DGR Team)
+<br><br>
+Designed and executed AI/ML Master Program from August 2022 to December 2022, leading cross functional team members including Solutions Architect and Technical Account Managers, consequently collected more than 200 customers who participated in a series of education session, technical consulting meetings, and a community day.
+
+<br><br>
+
 
 
 <br>
@@ -88,11 +94,11 @@ Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XjWN1c1/logoimage.png" alt="logoimage" border="0" height="25"></a> &nbsp; Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)<br><img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /><img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 
 <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XjWN1c1/logoimage.png" alt="logoimage" border="0" height="25"></a> &nbsp; Coding Academy Online Community (v2)
+Coding Academy Online Community (v2)
 <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)
 <br>
 Introducing HTTPS, JWT, and refactoring the frontend to React
