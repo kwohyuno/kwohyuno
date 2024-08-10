@@ -1,4 +1,4 @@
-# Hyunoh Kwon 
+# Hyunoh Jake Kwon 
 junior full-stack developer who dreams of innovating business with software <br>
 <div style="font-size:8px;">
 
