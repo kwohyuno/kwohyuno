@@ -15,7 +15,7 @@ junior full-stack developer who dreams of innovating business with software <br>
   </th>
   <tr>
     <td>Backend,Server</td>
-    <td>SpringBoot(Java, JPA, JWT, )</td>
+    <td>SpringBoot(Java, JPA, JWT, Oauth )</td>
   </tr>
   <tr>
     <td>Database</td>
