@@ -53,10 +53,10 @@ Masters of Science in Computer Science (Concentration on AI)
 <br><br>
 
 <h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4>
-Full stack training based on SpringBoot, React, and NCP 
+Full stack training based on SpringBoot, React, and JavaScript&CSS&HTML
 <br><br>
   
-<h4>Korea Cyber ​​University, Software Engineering Department</h4>  
+<h4>Korea Cyber ​​University, Software Engineering Department (2022.03 ~ 2024.02) </h4>  
 Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization
 <br><br>
 
