@@ -78,7 +78,7 @@ Gained foundational knowledge in Java programming, Linux and Git commands, and l
 <h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4>
 Based on understanding of cloud infrastructure, led customers adopt cloud services by opening online seminars and education sessions, contributing $1.5M Annual Revenue in 2022(Top record in DGR Team)
 <br><br>
-Designed and executed AI/ML Master Program from August 2022 to December 2022, leading cross functional team members including Solutions Architect and Technical Account Managers, consequently collected more than 200 customers who participated in a series of education session, technical consulting meetings, and a community day.
+Designed and executed an AI/ML Master Program from August 2022 to December 2022, leading cross-functional team members, including Solutions Architects and Technical Account Managers. As a result, over 200 customers participated in a series of educational sessions, technical consulting meetings, and a community day.
 
 <br><br>
 
