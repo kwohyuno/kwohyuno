@@ -47,25 +47,35 @@ Junior full-stack developer who dreams innovating business with software <br>
 
 ## 🎓  Education
 
-<h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08)) </h4>
+
+<h4>University of San Francisco (2024.08 ~ 2026.05)) </h4>
+Masters of Science in Computer Science (Concentration on AI) 
+<br><br>
+
+<h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4>
 Full stack training based on SpringBoot, React, and NCP 
-
-<br>
+<br><br>
   
-  
-Korea Cyber ​​University, Software Engineering Department  &nbsp;&nbsp; <h5> Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization </h5>
-&nbsp;
+<h4>Korea Cyber ​​University, Software Engineering Department</h4>  
+Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization
+<br><br>
 
-Graduated from Seoul National University (2013.03 ~ 2020.08)
-<h5> Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda) </h5>
+<h4> Seoul National University (2013.03 ~ 2020.08) </h4>
+BEd in Physical Education,<br>
+Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda)
 
-<br>
+<br><br>
 
 ## 💻  Working Experience
 
-Amazon Web Services Korea (2021.03 ~ 2022.12)<br>
-Naver Cloud (2021.01)<br>
-LINE PLUS (2019.06 ~ 2019.09) <br>
+<h4>FPT Software Korea (2023.09 ~ 2024.3)</h4>
+<br>
+<h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4>
+<br>
+<h4>Naver Cloud (2021.01)</h4>
+<br>
+<h4>LINE PLUS (2019.06 ~ 2019.09)</h4>
+<br>
 
 
 <br>
