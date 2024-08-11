@@ -32,7 +32,7 @@ Junior full-stack developer who dreams innovating business with software <br><br
    <tr>
    <tr>
     <td>FrontEnd</td>
-    <td>React, CSS, BootStrap, HTML </td>
+    <td>React, CSS, BootStrap, HTML, JavaScript </td>
    </tr>
    <tr>
     <td>OS</td>
