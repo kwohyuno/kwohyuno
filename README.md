@@ -23,7 +23,7 @@ Junior full-stack developer who dreams innovating business with software <br><br
   </tr>
   <tr>
     <td>CI/CD</td>
-    <td>AWS, Jenkins, Git Action</td>
+    <td>AWS, Jenkins</td>
   </tr>
   <tr>
     <td>Language</td>
