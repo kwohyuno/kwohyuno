@@ -56,7 +56,6 @@ A results-driven Software Engineer passionate about Full Stack development and b
   </ul>
 </ul>
 
-<br><br>
 
 <ul>
   <li><h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4></li>
@@ -65,7 +64,6 @@ A results-driven Software Engineer passionate about Full Stack development and b
   </ul>
 </ul>
   
-  <br><br>
   
 <ul>
   <li><h4>Korea Cyber ​​University, Software Engineering Department (2022.03 ~ 2024.02) </h4>  </li>
@@ -74,7 +72,6 @@ A results-driven Software Engineer passionate about Full Stack development and b
     </li>
    </ul> 
 </ul>
-  <br><br>
 
 <ul>
   <li>
