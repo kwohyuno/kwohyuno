@@ -30,6 +30,15 @@ A results-driven Software Engineer passionate about Full Stack development and b
     <td>FrontEnd</td>
     <td>React.js, TypeScript, CSS, HTML</td>
    </tr>
+   <tr>
+    <td>AI/Data</td>
+    <td>Azure OpenAI, Azure Functions, Redis, Kafka, Spark, Airflow, Grafana </td>
+   </tr>
+   <tr>
+    <td>ETC</td>
+    <td>Git, Git Action, Jenkins, Postman, Swagger, Jira  
+ </td>
+   </tr>
 
 
 
