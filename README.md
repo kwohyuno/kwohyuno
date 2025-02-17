@@ -50,8 +50,13 @@ A results-driven Software Engineer passionate about Full Stack development and b
 ## 🎓  Education
 
 
-<li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
-Masters of Science in Computer Science (Concentration on AI) 
+<ul>
+  <li></li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
+  <ul>
+<li>Masters of Science in Computer Science (Concentration on AI) </li>
+    </ul>
+</ul>
+
 <br><br>
 
 <h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4>
