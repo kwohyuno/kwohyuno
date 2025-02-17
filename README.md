@@ -45,7 +45,6 @@ A results-driven Software Engineer passionate about Full Stack development and b
 </table>
 
 
-<br>
 
 ## 🎓  Education
 
@@ -88,7 +87,6 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 <ul><li><h4>University of San Francisco, AI Research Assistant (2025.01 ~ Present)</h4></li>
   <ul>
 <li>Developed and optimized an AI agent prototype, increasing task efficiency by 900% through iterative performance tuning and user-driven refinements. </li>
-<br><br>
 <li>Conducted a comparative analysis of AI agent frameworks (Azure Databricks, CrewAI), identifying a framework that reduced operational costs by 30% while improving accuracy by 15%.</li>
 </ul></ul>
 
