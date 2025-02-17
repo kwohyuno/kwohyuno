@@ -50,7 +50,7 @@ A results-driven Software Engineer passionate about Full Stack development and b
 ## 🎓  Education
 
 
-<ul><li></li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
+<ul><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
   <ul>
     <li>Masters of Science in Computer Science (Concentration on AI) </li>
   </ul>
@@ -58,18 +58,32 @@ A results-driven Software Engineer passionate about Full Stack development and b
 
 <br><br>
 
-<h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4>
-Full stack training based on SpringBoot, React, and JavaScript&CSS&HTML
-<br><br>
+<ul>
+  <li><h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4></li>
+  <ul>
+    <li>Full stack training based on SpringBoot, React, and JavaScript&CSS&HTML</li>
+  </ul>
+</ul>
   
-<h4>Korea Cyber ​​University, Software Engineering Department (2022.03 ~ 2024.02) </h4>  
-Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud Computing, Data Visualization
-<br><br>
+  <br><br>
+  
+<ul>
+  <li><h4>Korea Cyber ​​University, Software Engineering Department (2022.03 ~ 2024.02) </h4>  </li>
+  <ul>
+  <li>Courses taken: Database, Data Structure, Computer Architecture, Computer Network, Operating System, Internet Security, Algorithm, Artificial Intelligence, Machine Learning, Cloud   Computing, Data Visualization
+    </li>
+   </ul> 
+</ul>
+  <br><br>
 
-<h4> Seoul National University (2013.03 ~ 2020.08) </h4>
+<ul>
+  <li>
+<h4> Seoul National University (2013.03 ~ 2020.08) </h4></li>
+  <ul><li>
 BEd in Physical Education,<br>
-Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda)
-
+Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda)</li>
+  </ul>
+</ul>
 <br><br>
 
 ## 💻  Working Experience
