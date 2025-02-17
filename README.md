@@ -136,11 +136,6 @@ Jake <a href="https://github.com/kwohyuno/SideProject-Jake.git">(2024.11) : Soci
 Coding Academy Online Community (v2)
 <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)</li>
 
-<ul><li>
-  
-Introducing HTTPS, JWT, and refactoring the frontend to React
-
-  </li></ul>
 
 
 </ul>  
