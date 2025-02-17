@@ -85,26 +85,33 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 ## 💻  Working Experience
 
-<h4>University of San Francisco, AI Research Assistant (2025.01 ~ Present)</h4>
-Developed and optimized an AI agent prototype, increasing task efficiency by 900% through iterative performance tuning and user-driven refinements. 
+<ul><li><h4>University of San Francisco, AI Research Assistant (2025.01 ~ Present)</h4></li>
+  <ul>
+<li>Developed and optimized an AI agent prototype, increasing task efficiency by 900% through iterative performance tuning and user-driven refinements. </li>
 <br><br>
-Conducted a comparative analysis of AI agent frameworks (Azure Databricks, CrewAI), identifying a framework that reduced operational costs by 30% while improving accuracy by 15%.
-<br><br>
+<li>Conducted a comparative analysis of AI agent frameworks (Azure Databricks, CrewAI), identifying a framework that reduced operational costs by 30% while improving accuracy by 15%.</li>
+</ul></ul>
 
 
-<h4>FPT Software Korea (2023.09 ~ 2024.03)</h4>
-As a Junior Software Engineer for LGE POIP CloudService(a middleware component of Hyundai Motor Group's Android Project), performed integration testing and version control of CloudService.
-<br><br>
-Enhanced communication and project management skills through extensive collaboaration with multiple teams including FPT CloudService Developers, HMC Managers, and LGE Tech Support. 
-<br><br>
-Gained foundational knowledge in Java programming, Linux and Git commands, and leanred the comprehensive lifecycle of software engineering and API utilization in real-world applications.
-<br><br><br>
-<h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4>
-Based on understanding of cloud infrastructure, led customers adopt cloud services by opening online seminars and education sessions, contributing $1.5M Annual Revenue in 2022(Top record in DGR Team)
-<br><br>
-Designed and executed an AI/ML Master Program from August 2022 to December 2022, leading cross-functional team members, including Solutions Architects and Technical Account Managers. As a result, over 200 customers participated in a series of educational sessions, technical consulting meetings, and a community day.
+<ul><li><h4>FPT Software Korea (2023.09 ~ 2024.03)</h4></li>
+  <ul>
+<li>As a Junior Software Engineer for LGE POIP CloudService(a middleware component of Hyundai Motor Group's Android Project), performed integration testing and version control of CloudService.</li>
+ 
+<ul>Enhanced communication and project management skills through extensive collaboaration with multiple teams including FPT CloudService Developers, HMC Managers, and LGE Tech Support.</ul>
+    <ul>
+ 
+Gained foundational knowledge in Java programming, Linux and Git commands, and leanred the comprehensive lifecycle of software engineering and API utilization in real-world applications.</ul>
+    </ul>
+</ul>
 
-<br><br>
+  
+<ul>
+<li><h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4></li>
+<ul><li>Based on understanding of cloud infrastructure, led customers adopt cloud services by opening online seminars and education sessions, contributing $1.5M Annual Revenue in 2022(Top record in DGR Team)</li>
+<li>
+Designed and executed an AI/ML Master Program from August 2022 to December 2022, leading cross-functional team members, including Solutions Architects and Technical Account Managers. As a result, over 200 customers participated in a series of educational sessions, technical consulting meetings, and a community day.</li>
+</ul></ul>
+
 
 
 
@@ -112,28 +119,33 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 ## 🛠   Projects 
 
-
+<ul>
 Jake <a href="https://github.com/kwohyuno/SideProject-Jake.git">(2024.11) : Social network web service for international students landing in US    <br>
 
 
 
 <br>
 
-Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals
+<li>Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals</li>
 
 <br>
 
-Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)
+<li>Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)</li>
 
 <br>
 
+<li>
 Coding Academy Online Community (v2)
-<a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)
+<a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)</li>
 <br>
+<ul><li>
+  <
 Introducing HTTPS, JWT, and refactoring the frontend to React
+<
+  </li></ul>
 <br>
 
-  
+</ul>  
 
 <br><br>
 
