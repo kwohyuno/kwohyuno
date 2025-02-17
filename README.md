@@ -81,7 +81,7 @@ BEd in Physical Education,<br>
 Seoul National University Management Strategy Society MCSA Industry-Academic Collaboration Strategy Consulting Project 3rd Round (Wooah Brothers, WeMakePrice, Qanda)</li>
   </ul>
 </ul>
-<br><br>
+
 
 ## 💻  Working Experience
 
@@ -115,7 +115,6 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 
 
-<br>
 
 ## 🛠   Projects 
 
@@ -138,7 +137,7 @@ Jake <a href="https://github.com/kwohyuno/SideProject-Jake.git">(2024.11) : Soci
 <li>
 Coding Academy Online Community (v2)
 <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)</li>
-<br>
+
 <ul><li>
   <
 Introducing HTTPS, JWT, and refactoring the frontend to React
