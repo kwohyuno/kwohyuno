@@ -50,11 +50,10 @@ A results-driven Software Engineer passionate about Full Stack development and b
 ## 🎓  Education
 
 
-<ul>
-  <li></li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
+<ul><li></li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
   <ul>
-<li>Masters of Science in Computer Science (Concentration on AI) </li>
-    </ul>
+    <li>Masters of Science in Computer Science (Concentration on AI) </li>
+  </ul>
 </ul>
 
 <br><br>
