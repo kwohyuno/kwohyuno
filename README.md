@@ -120,19 +120,20 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 ## 🛠   Projects 
 
 <ul>
+  <li>
 Jake <a href="https://github.com/kwohyuno/SideProject-Jake.git">(2024.11) : Social network web service for international students landing in US    <br>
 
+</li>
 
 
-<br>
 
 <li>Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals</li>
 
-<br>
+
 
 <li>Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)</li>
 
-<br>
+
 
 <li>
 Coding Academy Online Community (v2)
@@ -143,11 +144,10 @@ Coding Academy Online Community (v2)
 Introducing HTTPS, JWT, and refactoring the frontend to React
 <
   </li></ul>
-<br>
+
 
 </ul>  
 
-<br><br>
 
 
 
