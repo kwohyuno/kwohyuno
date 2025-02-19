@@ -118,7 +118,7 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 <ul>
     <li>
-<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (2024.11 - 2024.12) : CTI-CodeDay SWE Micro-internship     <br>
+<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (2025.01 - 2025.02) : CTI-CodeDay SWE Micro-internship     <br>
 
 </li>
 
