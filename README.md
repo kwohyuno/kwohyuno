@@ -117,8 +117,13 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 ## 🛠   Projects 
 
 <ul>
+    <li>
+<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (2024.11 - 2024.12) : CTI-CodeDay SWE Micro-internship     <br>
+
+</li>
+
   <li>
-<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (2024.11 - 2024.12) : Social network web service for international students landing in US    <br>
+<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (2024.11 - 2024.12) : A Hotel Review Website    <br>
 
 </li>
 
