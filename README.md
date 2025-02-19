@@ -118,13 +118,13 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 <ul>
   <li>
-Travelhelper <a href="https://github.com/kwohyuno/Travelhelper">(2024.11 - 2024.12) : Social network web service for international students landing in US    <br>
+<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (2024.11 - 2024.12) : Social network web service for international students landing in US    <br>
 
 </li>
 
   
   <li>
-Jake <a href="https://github.com/kwohyuno/SideProject-Jake.git">(2024.09 - 2024.11) : Social network web service for international students landing in US    <br>
+<a href="https://github.com/kwohyuno/SideProject-Jake.git">Jake</a> (2024.09 - 2024.11) : Social network web service for international students landing in US    <br>
 
 </li>
 
