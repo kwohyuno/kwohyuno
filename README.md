@@ -42,14 +42,6 @@ A results-driven Software Engineer passionate about Full Stack development and b
     <li>Masters of Science in Computer Science (Concentration on AI) </li>
   </ul>
 </ul>
-
-
-<ul>
-  <li><h4>Naver Cloud (Naver Cloud AIaaS Developer Program (2023.02 ~ 2023.08 , 129 days, 1032 hours)) </h4></li>
-  <ul>
-    <li>Full stack training based on SpringBoot, React, and JavaScript&CSS&HTML</li>
-  </ul>
-</ul>
   
   
 <ul>
@@ -71,6 +63,14 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 
 ## 💻  Working Experience
+
+<ul><li><h4>Amenity, Junior Software Developer    (2025.05 ~ Present)</h4></li>
+  <ul>
+<li>Developed an automated invoice generation system by parsing data and dynamically generating PDF files, reducing invoice processing time by approximately 40%. </li>
+<li>Implemented a messaging program using the ClickSend API and established an endpoint to process incoming messages, streamlining communication and cutting response times by around 30%.</li>
+</ul></ul>
+
+
 
 <ul><li><h4>University of San Francisco, AI Research Assistant (2025.01 ~ Present)</h4></li>
   <ul>
