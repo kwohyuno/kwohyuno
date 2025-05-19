@@ -14,31 +14,19 @@ A results-driven Software Engineer passionate about Full Stack development and b
     Skills
   </th>
   <tr>
-    <td>Backend,Server</td>
-    <td>SpringBoot, Django, Express.js</td>
+    <td>Programming</td>
+    <td>Express.js, React.js, TypeScript, Prisma, PostgreSQL, Redis, Python, Java, SpringBoot
+</td>
   </tr>
   <tr>
-    <td>Database, Cloud</td>
-    <td>MySQL, PostgresDB, MongoDB, AWS, Docker, Kubernetes </td>
+    <td>DevOps</td>
+    <td> AWS[EC2, Lambda, S3, RDS, EKS, ECR, Lambda],  Git, Git Action, Docker, ArgoCD, Ansible, Terraform </td>
   </tr>
   <tr>
-    <td>Language</td>
-    <td>Java, Python, JavaScript, SQL </td>
+    <td>AI/ML</td>
+    <td>Scikit-learn, Pandas, Numpy, Azure OpenAI, OpenAI API, PyTorch, Hugging Face Hub </td>
   </tr>
-   <tr>
-   <tr>
-    <td>FrontEnd</td>
-    <td>React.js, TypeScript, CSS, HTML</td>
-   </tr>
-   <tr>
-    <td>AI/Data</td>
-    <td>Azure OpenAI, Azure Functions, Redis, Kafka, Spark, Airflow, Grafana </td>
-   </tr>
-   <tr>
-    <td>ETC</td>
-    <td>Git, Git Action, Jenkins, Postman, Swagger, Jira  
- </td>
-   </tr>
+
 
 
 
