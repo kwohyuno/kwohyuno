@@ -116,12 +116,11 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 <li>Eclipse PDE <a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE : Software Engineering Intern, CodeDay</a> (Jun 2025 - Aug 2025)</li>
 
+<li>Open Energy Dashboard <a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard: CTI-CodeDay SWE Micro-internship </a> (Jan 2025 - Feb 2025)</li>
+
 
   
-    <li>
-<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (Jan 2025 - Feb 2025) : CTI-CodeDay SWE Micro-internship    
-
-</li>
+    
 
   <li>
 <a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (Nov 2024 - Dec 2024) : A Hotel Review Website    
