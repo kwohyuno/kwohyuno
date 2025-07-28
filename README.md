@@ -114,9 +114,7 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 <li>Dojeon - International K-pop social media platform <a href="https://github.com/kwohyuno/dojeon-BE">Devster</a> (Jun 2025 - Present)</li>
 
-    <li>
-<a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE</a> (Jun 2025 - Aug 2025) : Software Engineering Intern, CodeDay    
-</li>
+<li>Eclipse PDE <a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE : Software Engineering Intern, CodeDay</a> (Jun 2025 - Aug 2025)</li>
 
 
   
