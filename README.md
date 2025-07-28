@@ -1,5 +1,5 @@
 # Jake Hyunoh Kwon 
-A results-driven Software Engineer passionate about Full Stack development and building scalable, high-impact solutions that drive business success. Designed, developed, and deployed end-to-end applications, leveraging expertise in Object-Oriented Programming (OOP), Data Structures, and Design Patterns to create efficient and maintainable code. Currently expanding expertise in DevOps and AI, integrating cloud technologies and automation to enhance system reliability and scalability. <br><br>
+Impact-driven Full Stack Software Engineer with a strong track record of delivering robust, scalable applications that drive business impact. Skilled in Object-Oriented Programming (OOP), Data Structures, and Design Patterns, with a focus on writing clean, maintainable, and efficient code. Experienced in designing, developing, and deploying end-to-end software solutions, including a production-grade application used by over 2,000 users. Known for a user-centric mindset, a collaborative approach to problem solving, and a deep commitment to building systems that meet real-world needs.  <br><br>
 <div style="font-size:8px;">
 
 <div>
@@ -15,16 +15,16 @@ A results-driven Software Engineer passionate about Full Stack development and b
   </th>
   <tr>
     <td>Programming</td>
-    <td>Express.js, React.js, TypeScript, Prisma, PostgreSQL, Redis, Python, Java, SpringBoot
+    <td>Next.js, React.js, TypeScript, Prisma, PostgreSQL, Redis, Python, Java, SpringBoot, Tailwind 
 </td>
   </tr>
   <tr>
     <td>DevOps</td>
-    <td> AWS[EC2, Lambda, S3, RDS, EKS, ECR, Lambda],  Git, Git Action, Docker, ArgoCD, Ansible, Terraform </td>
+    <td> AWS[EC2, Lambda, S3, RDS, EKS, ECR],  Git, Git Action, Docker, ArgoCD, Ansible, Terraform. Vercel   </td>
   </tr>
   <tr>
     <td>AI/ML</td>
-    <td>Scikit-learn, Pandas, Numpy, Azure OpenAI, OpenAI API, PyTorch, Hugging Face Hub </td>
+    <td>Scikit-learn, Pandas, Numpy, Azure OpenAI, OpenAI API, PyTorch, Hugging Face Hub  </td>
   </tr>
 
 
@@ -64,7 +64,7 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 ## 💻  Working Experience
 
-<ul><li><h4>Amenity, Junior Software Developer    (2025.05 ~ Present)</h4></li>
+<ul><li><h4>Amenity, Junior Software Developer    (May 2025 - Jul 2025)</h4></li>
   <ul>
 <li>Developed an automated invoice generation system by parsing data and dynamically generating PDF files, reducing invoice processing time by approximately 40%. </li>
 <li>Implemented a messaging program using the ClickSend API and established an endpoint to process incoming messages, streamlining communication and cutting response times by around 30%.</li>
@@ -72,14 +72,14 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 
 
-<ul><li><h4>University of San Francisco, AI Research Assistant (2025.01 ~ Present)</h4></li>
+<ul><li><h4>University of San Francisco, AI Research Assistant (Jan 2025 - May 2025)</h4></li>
   <ul>
 <li>Developed and optimized an AI agent prototype, increasing task efficiency by 900% through iterative performance tuning and user-driven refinements. </li>
 <li>Conducted a comparative analysis of AI agent frameworks (Azure Databricks, CrewAI), identifying a framework that reduced operational costs by 30% while improving accuracy by 15%.</li>
 </ul></ul>
 
 
-<ul><li><h4>FPT Software Korea (2023.09 ~ 2024.03)</h4></li>
+<ul><li><h4>FPT Software Korea (Sep 2023 ~ Mar 2024)</h4></li>
   <ul>
 <li>As a Junior Software Engineer for LGE POIP CloudService(a middleware component of Hyundai Motor Group's Android Project), performed integration testing and version control of CloudService.</li>
  
@@ -92,7 +92,7 @@ Gained foundational knowledge in Java programming, Linux and Git commands, and l
 
   
 <ul>
-<li><h4>Amazon Web Services Korea (2021.03 ~ 2022.12)</h4></li>
+<li><h4>Amazon Web Services Korea (Mar 2021 ~ Dec 2022)</h4></li>
 <ul><li>Based on understanding of cloud infrastructure, led customers adopt cloud services by opening online seminars and education sessions, contributing $1.5M Annual Revenue in 2022(Top record in DGR Team)</li>
 <li>
 Designed and executed an AI/ML Master Program from August 2022 to December 2022, leading cross-functional team members, including Solutions Architects and Technical Account Managers. As a result, over 200 customers participated in a series of educational sessions, technical consulting meetings, and a community day.</li>
@@ -104,36 +104,50 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 
 ## 🛠   Projects 
 
+
+
+
 <ul>
+
     <li>
-<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (2025.01 - 2025.02) : CTI-CodeDay SWE Micro-internship     <br>
+<a href="https://github.com/kwohyuno/dojeon-BE">Dojeon - International K-pop social media platform</a> (Jun 2025 - Present) : Project Leader     <br>
+</li>
+
+    <li>
+<a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE</a> (Jun 2025 - Aug 2025) : Software Engineering Intern, CodeDay     <br>
+</li>
+
+
+  
+    <li>
+<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (Jan 2025 - Feb 2025) : CTI-CodeDay SWE Micro-internship     <br>
 
 </li>
 
   <li>
-<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (2024.11 - 2024.12) : A Hotel Review Website    <br>
+<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (Nov 2024 - Dec 2024) : A Hotel Review Website    <br>
 
 </li>
 
   
   <li>
-<a href="https://github.com/kwohyuno/SideProject-Jake.git">Jake</a> (2024.09 - 2024.11) : Social network web service for international students landing in US    <br>
+<a href="https://github.com/kwohyuno/SideProject-Jake.git">Jake</a> (Sep 2024 - Nov 2024) : Social network web service for international students landing in US    <br>
 
 </li>
 
 
 
-<li>Primer Hosted AI Hackathon (2023.04) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals</li>
+<li>Primer Hosted AI Hackathon (Apr 2023) : <a href="https://www.youtube.com/watch?v=sNOpKLsg_84">Just-Say</a> An app to practice foreign languages ​​while conversing <br> 16 teams out of 226 advanced to the finals</li>
 
 
 
-<li>Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.05)</li>
+<li>Coding academy online community <a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (May 2023)</li>
 
 
 
 <li>
 Coding Academy Online Community (v2)
-<a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (2023.07)</li>
+<a href="https://github.com/kddongkyu/bit701-four-semi">Devster</a> (Jul 2023)</li>
 
 
 
