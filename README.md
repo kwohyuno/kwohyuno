@@ -110,28 +110,28 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
 <ul>
 
     <li>
-<a href="https://github.com/kwohyuno/dojeon-BE">Dojeon - International K-pop social media platform</a> (Jun 2025 - Present) : Project Leader     <br>
+<a href="https://github.com/kwohyuno/dojeon-BE">Dojeon - International K-pop social media platform</a> (Jun 2025 - Present) : Project Leader    
 </li>
 
     <li>
-<a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE</a> (Jun 2025 - Aug 2025) : Software Engineering Intern, CodeDay     <br>
+<a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE</a> (Jun 2025 - Aug 2025) : Software Engineering Intern, CodeDay    
 </li>
 
 
   
     <li>
-<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (Jan 2025 - Feb 2025) : CTI-CodeDay SWE Micro-internship     <br>
+<a href="https://jake-kwon.blogspot.com/2025/02/open-source-project-open-energy.html">Open Energy Dashboard</a> (Jan 2025 - Feb 2025) : CTI-CodeDay SWE Micro-internship    
 
 </li>
 
   <li>
-<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (Nov 2024 - Dec 2024) : A Hotel Review Website    <br>
+<a href="https://github.com/kwohyuno/Travelhelper">Travelhelper</a> (Nov 2024 - Dec 2024) : A Hotel Review Website    
 
 </li>
 
   
   <li>
-<a href="https://github.com/kwohyuno/SideProject-Jake.git">Jake</a> (Sep 2024 - Nov 2024) : Social network web service for international students landing in US    <br>
+<a href="https://github.com/kwohyuno/SideProject-Jake.git">Jake</a> (Sep 2024 - Nov 2024) : Social network web service for international students landing in US   
 
 </li>
 
