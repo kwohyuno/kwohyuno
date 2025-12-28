@@ -1,5 +1,5 @@
 # Jake Hyunoh Kwon 
-Impact-driven Full Stack Software Engineer with a strong track record of delivering robust, scalable applications that drive business impact. Skilled in Object-Oriented Programming (OOP), Data Structures, and Design Patterns, with a focus on writing clean, maintainable, and efficient code. Experienced in designing, developing, and deploying end-to-end software solutions, including a production-grade application used by over 2,000 users. Known for a user-centric mindset, a collaborative approach to problem solving, and a deep commitment to building systems that meet real-world needs.  <br><br>
+Software engineer specializing in full-stack development with growing expertise in applied machine learning, experienced in building scalable web systems and ML-enabled services using AWS, React/Next.js, PostgreSQL, and modern AI frameworks.  <br><br>
 <div style="font-size:8px;">
 
 <div>
@@ -15,12 +15,12 @@ Impact-driven Full Stack Software Engineer with a strong track record of deliver
   </th>
   <tr>
     <td>Programming</td>
-    <td>Next.js, React.js, TypeScript, Prisma, PostgreSQL, Redis, Python, Java, SpringBoot, Tailwind 
+    <td>Next.js, React.js, TypeScript, Prisma, PostgreSQL, Python, Java, SpringBoot, Tailwind 
 </td>
   </tr>
   <tr>
     <td>DevOps</td>
-    <td> AWS[EC2, Lambda, S3, RDS, EKS, ECR],  Git, Git Action, Docker, ArgoCD, Ansible, Terraform. Vercel   </td>
+    <td> AWS[EC2, Lambda, S3, RDS, EKS, ECR],  Git, Git Action, Docker, ArgoCD, Terraform. Vercel   </td>
   </tr>
   <tr>
     <td>AI/ML</td>
@@ -64,7 +64,14 @@ Seoul National University Management Strategy Society MCSA Industry-Academic Col
 
 ## 💻  Working Experience
 
-<ul><li><h4>Amenity, Junior Software Developer    (May 2025 - Jul 2025)</h4></li>
+<ul><li><h4>Headquarters Health    (Sep 2025 - Dec 2025)</h4></li>
+  <ul>
+<li>Built and launched a full clinician–patient Messaging & Chat System by designing a scalable chat architecture and a 2-way SMS pipeline (AWS SNS, Lambda, PostgreSQL), reducing manual support follow-ups and ensuring 100% accurate message routing to the correct team member. </li>
+<li>Redesigned and automated the Scheduler & Booking System by improving end-to-end workflows (availability → booking → notifications), integrating Stripe Apple Pay/Google Pay, and building reliable Google Calendar sync with SQS FIFO + Lambda, cutting booking friction, reducing no-shows via automated reminders, and enabling sub-minute calendar synchronization across regions.
+</li>
+</ul></ul>
+
+<ul><li><h4>Ameniti, Junior Software Developer    (May 2025 - Jul 2025)</h4></li>
   <ul>
 <li>Developed an automated invoice generation system by parsing data and dynamically generating PDF files, reducing invoice processing time by approximately 40%. </li>
 <li>Implemented a messaging program using the ClickSend API and established an endpoint to process incoming messages, streamlining communication and cutting response times by around 30%.</li>
@@ -112,7 +119,7 @@ Designed and executed an AI/ML Master Program from August 2022 to December 2022,
     
 
 
-<li>Dojeon - International K-pop social media platform <a href="https://github.com/kwohyuno/dojeon-BE">Devster</a> (Jun 2025 - Present)</li>
+<li>Glake - International K-pop social media platform (Dec 2025 - Present)</li> 
 
 <li>Eclipse PDE <a href="https://github.com/Phinhas214/eclipse.pde.git">Eclipse PDE : Software Engineering Intern, CodeDay</a> (Jun 2025 - Aug 2025)</li>
 
