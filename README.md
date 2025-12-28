@@ -40,7 +40,7 @@ Software engineer specializing in full-stack development with growing expertise 
 <ul><li><h4>University of San Francisco (2024.08 ~ 2026.05) </h4></li>
   <ul>
     <li>Masters of Science in Computer Science (Concentration on AI) </li>
-    <li>Courses takne : Natural Language Process, Principles of Software Development, Data Structures and algorithm, Foundations of AI, DevOps, Deep Learning, Big Data, System Foundations </li>
+    <li>Courses taken : Natural Language Process, Principles of Software Development, Data Structures and algorithm, Foundations of AI, DevOps, Deep Learning, Big Data, System Foundations </li>
   </ul>
 </ul>
   
