@@ -164,7 +164,7 @@ Coding Academy Online Community (v2)
 
 ## 📖  Certificates
 
-📝 AWS Solutions Architect Associate (2020.11) 
+📝 AWS Solutions Architect Associate (2025.08) 
 <br><br>
 
 ## 🔍  Where to find me
